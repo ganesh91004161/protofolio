@@ -15,7 +15,7 @@ body {
     border: 3px solid white;
 }
 .cover {
-background: url("port\ back.jpg") no-repeat center center;
+background: url("port back.jpg") no-repeat center center;
 background-size: cover;
 position: relative;
 height: 300px; /* Ensure it takes full height */
